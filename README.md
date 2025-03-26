@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dinil-lamahewa.github.io/Dinil-Lamahewa-portfolio/](https://dinil-lamahewa.github.io/Dinil-Lamahewa-portfolio/)
 
-- 📫 How to reach me **dinil.lamahewa.working@gmail.com**
+- 📫 How to reach me **dinilsespace@gmail.com**
 
 - ⚡ Fun fact **Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. So, just like my code, honey stands the test of time!**
 
